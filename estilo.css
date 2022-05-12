@@ -1,0 +1,7 @@
+:root {
+    --amarelo:rgb(252, 207, 7);
+}
+
+div {
+    background-color: var(--amarelo);
+}
