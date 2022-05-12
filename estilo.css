@@ -1,3 +1,20 @@
+
 h2{
     color:blue;
+}
+
+div{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+
+p{
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.negrito{
+    font-weight: bold;
 }
