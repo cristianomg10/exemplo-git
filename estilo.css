@@ -1,3 +1,33 @@
+
 h3 {
     color: black;
+}
+
+:root {
+    --amarelo:rgb(252, 207, 7);
+}
+
+div {
+    background-color: var(--amarelo);
+
+h1 {
+    color: red;
+}
+
+div{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.negrito{
+    font-weight: bold;
+
 }
