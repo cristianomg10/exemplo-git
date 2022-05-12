@@ -1,4 +1,8 @@
 
+h3 {
+    color: black;
+}
+
 :root {
     --amarelo:rgb(252, 207, 7);
 }
