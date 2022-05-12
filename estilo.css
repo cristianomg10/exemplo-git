@@ -1,3 +1,11 @@
+
+:root {
+    --amarelo:rgb(252, 207, 7);
+}
+
+div {
+    background-color: var(--amarelo);
+
 h1 {
     color: red;
 }
@@ -17,4 +25,5 @@ a:hover {
 
 .negrito{
     font-weight: bold;
+
 }
